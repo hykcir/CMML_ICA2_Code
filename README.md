@@ -15,3 +15,5 @@ All codes used for analysis and plotting are shown below
 6. `PCA_KNN.ipynb`: Establishes and evaluates a baseline model for cell type annotation by applying KNN classifier on PCA embeddings
 
 7. `PCA_LogReg.ipynb`: Establishes and evaluates a baseline model for cell type annotation by applying logistic regression classifier on PCA embeddings
+
+8. `preprocessing.ipynb`: Implements necessary preprocessing steps on scRNA-seq data before downstream analysis
