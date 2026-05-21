@@ -2,7 +2,7 @@
 
 All codes used for analysis and plotting are shown below
 
-1. `emb_eva.py`: This utility script containing the `evaluate_embeddings` function which standardizes embedding evaluation across different models using Logistic Regression or K-Nearest Neighbors (KNN) classifiers, returning metrics like Accuracy, F1, Precision and Recall
+1. `emb_eva.py`: The utility script containing the `evaluate_embeddings` function which standardizes embedding evaluation across different models using Logistic Regression or K-Nearest Neighbors (KNN) classifiers, returning metrics like Accuracy, F1, Precision and Recall
 
 2. `scGPT.ipynb`: Extracts and evaluates cell embeddings from a pretrained scGPT model
 
